@@ -1,0 +1,150 @@
+
+body {
+	width: 100%;
+    min-height:800px;
+	background: url(../images/img/bg-index.jpg) no-repeat;
+	background-size: 100% 100%;
+	
+}
+
+.logo {
+    padding: 10px 0 15px 0;    
+}
+.title {
+    padding: 70px 0 0 50px;	
+}
+
+.cabinet {
+	
+    padding: 100px 0 0 100px;	
+}
+
+.searchbar {
+    padding: 0 0 0 80px;
+}
+
+
+
+.button1 {
+	float: right;
+	margin-top: 50px;
+	margin-right: 30px; 
+}
+.qwer {
+	width: 200px;
+}
+
+.form-search {
+	float: right;
+	margin-top: 100px;
+}
+.search_big {
+	display: block;
+	position: absolute;
+	left: 420px;
+	top: 90px;
+}
+.form-search .btn {
+	position: absolute;
+	right: 23px;
+	top: 50px;
+	width: 150px;
+	height: 34px;
+	background: url(../images/img/button.png) repeat-x;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, .2);
+}
+.form-search .btn:hover {
+	background-color: #265a88;
+}
+.input-medium {
+	position: absolute;
+	width: 400px;
+	height: 35px;
+	left: 13px;
+	top:50px;
+}
+
+.info_block {
+	float: right;
+	background-color: #fff;
+	border-radius: 15px;
+	text-align: center;
+	width: 250px;
+	height:200px;
+	margin-right: -10px;
+}
+.large_menu {
+	margin-top: 100px;
+	text-align: center;
+}
+.second_line {
+	margin-top: 25px;
+}
+
+.first_line img {
+	transition: all 0.3s ease-out;
+	-moz-transition: all 0.3s ease-out;
+	-o-transition: all 0.3s ease-out;
+	-webkit-transition: all 0.3s ease-out;
+}
+.first_line img:hover{
+	transform: scale(1.2);
+	-webkit-transform: scale(1.2);
+	-moz-transform: scale(1.2);
+	-o-transform: scale(1.2);
+}
+.second_line img {
+	transition: all 0.5s ease-out;
+	-moz-transition: all 0.5s ease-out;
+	-o-transition: all 0.5s ease-out;
+	-webkit-transition: all 0.5s ease-out;
+}
+.second_line img:hover{
+	transform: scale(1.2);
+	-webkit-transform: scale(1.2);
+	-moz-transform: scale(1.2);
+	-o-transform: scale(1.2);
+}
+
+.menu {
+	margin-top: 50px;
+	text-align: center;
+}
+.menu ul li {
+	display: inline;
+	padding: 0 25px;
+	font-size: 16px;
+}
+.menu ul li a {
+	color: black;
+}
+.logo_bottom {
+	color: #fff;
+	font-size: 24px;
+	margin-top: 50px;
+}
+.globe {
+	margin-top: 70px;
+	margin-left: 105px;
+}
+.properties {
+	border: solid 1px black;
+	padding:3px;
+	background-color:#EBF7F6;
+}
+.listfoot li a{
+	background-color:red;
+	color:red;
+	size:15px;
+}
+
+select,input{ margin-bottom: 20px;}
+
+
+.row menu 
+
+
+
+
+
+
